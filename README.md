@@ -1,14 +1,15 @@
-# NavigatorRail Implementation.
+# NavigationRail Implementation in Flutter.
 
-This project contains code for my Medium blog.
-Here is the link to the post - https://medium.com/@puruchandra4/navigation-rail-solving-819a78e8ab1b
-
-## Overview
-Implentation of NavigationRail and BottomNavigationBar to achieve responsive UI accross platform.
-
-Widget Tree
-![](files/Screenshot 2020-06-13 at 9.52.12 PM.png)
+![Screenshot](https://github.com/Puruchandra/navigation_rail_medium/blob/master/files/Screenshot%202020-06-13%20at%2010.15.06%20PM.png)
 
 
+# Overview
+Flutter implentation of NavigationRail and BottomNavigationBar to achieve responsive UI accross platform. A more detailed tutorial is published on Medium. Go Check that out. Link Below.
 
-## GO SMASH THE CLAP BUTTON 🙏
+# Widget Tree
+
+![Screenshot](https://github.com/Puruchandra/navigation_rail_medium/blob/master/files/Screenshot%202020-06-13%20at%209.52.12%20PM.png)
+
+``` 
+Here is the link to the post - https://medium.com/@puruchandra4/navigation-rail-solving-819a78e8ab1b 
+GO SMASH THE CLAP BUTTON 🙏
